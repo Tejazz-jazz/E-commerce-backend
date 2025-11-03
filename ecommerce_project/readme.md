@@ -1,8 +1,32 @@
 #  E-commerce Backend (Django REST API)
 
-This is a simple e-commerce backend built using **Django REST Framework**.  
-It includes user authentication, product management, cart, and order features.
-y
+This is a simple **E-commerce backend** built using Django REST Framework.  
+It includes user authentication, product management, cart management, and order placement features.
+
+---
+
+##  Features
+
+- 👤 User Registration & Login (JWT Authentication)
+- 🛒 Add / Remove products from Cart
+- 📦 Place and view Orders
+- 🧾 Product CRUD (Create, Read, Update, Delete)
+- 🔐 Secure Authentication System
+- ⚙️ Admin panel to manage everything
+
+---
+
+##  Tech Stack
+
+- **Python 3**
+- **Django 5**
+- **Django REST Framework (DRF)**
+- **SQLite** (default database)
+- **Postman** for API testing
+
+---
+
+##  How to Run Locally
 
 ```bash
 git clone https://github.com/Tejazz-jazz/E-commerce-backend.git
